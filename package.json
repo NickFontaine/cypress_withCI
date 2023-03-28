@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run "
   },
   "keywords": [],
   "author": "",
